@@ -4,7 +4,7 @@ PulseHub frontend is a Next.js and TypeScript app that talks only to the backend
 
 ## Screenshot
 
-![PulseHub Home](docs/screenshots/pulsehub-home.png)
+![PulseHub Home](docs/screenshots/img.png)
 
 ## Install
 
