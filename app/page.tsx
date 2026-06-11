@@ -12,7 +12,7 @@ export default function Home() {
   const [isAuthModalOpen, setIsAuthModalOpen] = useState(false);
 
   return (
-    <main className="min-h-screen px-4 py-6 text-[color:var(--foreground)] sm:px-6 lg:px-8">
+    <main className="min-h-screen px-4 py-6 text-(--foreground) sm:px-6 lg:px-8">
       <div className="mx-auto flex max-w-7xl flex-col gap-6">
         <header className="cyber-shell grid gap-6 p-5 lg:grid-cols-[minmax(0,1.2fr)_320px] lg:p-7">
           <div className="space-y-4">
