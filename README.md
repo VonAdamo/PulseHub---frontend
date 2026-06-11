@@ -2,6 +2,10 @@
 
 PulseHub frontend is a Next.js and TypeScript app that talks only to the backend BFF. It handles registration, login, logout, current-user lookup, and a simple chat flow for the `general` channel.
 
+## Screenshot
+
+![PulseHub Home](docs/screenshots/pulsehub-home.png)
+
 ## Install
 
 ```bash
